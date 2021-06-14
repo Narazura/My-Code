@@ -1,4 +1,4 @@
-Praktikum Modul 3: Program Perkalian Dua Matriks
+//Praktikum Modul 3: Program Perkalian Dua Matriks
 
 #include <stdio.h>
 #include <ctype.h>
