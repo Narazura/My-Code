@@ -1,4 +1,4 @@
-Praktikum Modul 4: Program Palindrome Check dengan Pointer
+//Praktikum Modul 4: Program Palindrome Check dengan Pointer
 
 #include <stdio.h>
 #include <stdlib.h>
