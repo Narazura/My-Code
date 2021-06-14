@@ -1,4 +1,4 @@
-Praktikum Modul 1 : Program Mendata Mahasiswa dan Konversi Tgl Lahir -> Umur
+//Praktikum Modul 1 : Program Mendata Mahasiswa dan Konversi Tgl Lahir -> Umur
 #include <stdio.h>
 #include <string.h>
 
