@@ -1,4 +1,4 @@
-Praktikum Modul 2 : Program Palindrome Check
+//Praktikum Modul 2 : Program Palindrome Check
 
 #include <stdio.h>
 #include <stdlib.h>
